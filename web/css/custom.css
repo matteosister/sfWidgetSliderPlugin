@@ -1,0 +1,14 @@
+/* 
+    Document   : custom
+    Created on : 18-mag-2010, 11.25.27
+    Author     : matteo
+*/
+
+
+.sfwidget-slider-container {
+  width: 300px;
+}
+
+.sfwidget-slider-container input {
+  margin-top: 10px;
+}
